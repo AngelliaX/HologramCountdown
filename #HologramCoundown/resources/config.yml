@@ -1,0 +1,7 @@
+location:
+  test:
+    name: test
+    x: 100
+    y: 100
+    z: 100
+    level: world

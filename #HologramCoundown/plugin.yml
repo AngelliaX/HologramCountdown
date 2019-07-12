@@ -1,0 +1,10 @@
+name: HologramCountDown
+version: 1
+main: Tungst_HLC\Main
+api: 3.0.0
+author: TungstenVn
+commands:
+ cd:
+  description: "hologram countdown"
+  use : "/cd name"
+  default: OP
